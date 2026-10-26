@@ -1,4 +1,4 @@
-# CYT250 Lab 3: MITRE ATT&CK Navigator
+# Lab 3: MITRE ATT&CK Navigator
 
 **Course:** CYT250 · Fall 2026
 **Tool:** MITRE ATT&CK Navigator (web version, Enterprise domain)
