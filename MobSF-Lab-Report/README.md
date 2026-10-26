@@ -1,4 +1,4 @@
-# CYT230: Mobile Application Security Assessment (Project 1)
+# Mobile Application Security Assessment (Project 1)
 
 A group project that compares mobile application security testing tools and then uses MobSF to assess an intentionally vulnerable Android app, UnCrackable Level 1. The project also bypasses its root detection with a Frida script.
 
