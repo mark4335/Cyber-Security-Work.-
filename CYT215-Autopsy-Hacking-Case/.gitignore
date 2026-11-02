@@ -1,0 +1,15 @@
+# Evidence images are too large for GitHub (>100 MB) and should not be committed
+*.E0[0-9]
+*.e0[0-9]
+*.dd
+*.raw
+*.img
+
+# Keep the unredacted Word original and Office temp files out of the repo
+*.docx
+~$*
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
