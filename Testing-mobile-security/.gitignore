@@ -1,0 +1,25 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Downloaded APKs / server binaries (too large for Git)
+*.apk
+frida-server*
+*.xz
+
+# Certificates and keys — keep out of version control
+*.pem
+*.der
+*.p12
+*.jks
+9a5ba575.0
+
+# Temporary files
+*.tmp
+*.log
